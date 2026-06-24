@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CuBuMC.aternos.me",
+    "ip": "CuBuMC.aternos.me:30295",
     "port": 30295,
     "version": "1.21.4",
     "try-creative": false
